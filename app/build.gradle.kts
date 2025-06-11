@@ -9,7 +9,7 @@ android {
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "lk.shan.deadlines"
+        applicationId = "lk.ms.deadlines"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
